@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:20:14.653Z" agent="5.0 (Windows)" etag="wg9Idv4G2v0W4UTqtx_I" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:27:22.401Z" agent="5.0 (Windows)" etag="nQDz1fHYEoLvVEDcMRFK" version="13.10.9" type="github">
   <diagram id="ZAYAtZIgmon7IQ3GefVp" name="Page-1">
-    <mxGraphModel dx="2563" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,13 @@
         <mxCell id="U8Dto0rnsPPyauF-UxUy-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3GcMtql7V56vAbpa6kK3-45" target="3GcMtql7V56vAbpa6kK3-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xwgeDjoUO_87gl3LFjrx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3GcMtql7V56vAbpa6kK3-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3GcMtql7V56vAbpa6kK3-45" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Lokalny&amp;nbsp; dyspozytor systemu&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="30" y="890" width="36" height="70" as="geometry" />
+          <mxGeometry x="84" y="890" width="36" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nilDXm2XVrn_8Es00O3O-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3GcMtql7V56vAbpa6kK3-53" target="3GcMtql7V56vAbpa6kK3-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,9 +114,6 @@
             <mxPoint x="670" y="370" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U8Dto0rnsPPyauF-UxUy-37" value="AUTORYZACJA TO NIE ODBLOKOWANIE PISTOLETU" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="179" y="230" width="161" height="86" as="geometry" />
         </mxCell>
         <mxCell id="U8Dto0rnsPPyauF-UxUy-49" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.361;entryY=0.979;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="3GcMtql7V56vAbpa6kK3-56" target="3GcMtql7V56vAbpa6kK3-32" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
