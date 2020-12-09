@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T18:07:39.708Z" agent="5.0 (Windows)" etag="0DeIyD85KyKNo686PBda" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T21:35:48.242Z" agent="5.0 (Windows)" etag="SXIfo2CbbilZ54k2IZ_B" version="13.10.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SZxRtCJqyWKQ7ooCCnyD-81" value="LocalDistributor" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="90" width="240" height="210" as="geometry">
+          <mxGeometry x="600" y="90" width="240" height="240" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -578,6 +578,9 @@
         </mxCell>
         <mxCell id="zYMQDGKd3a_AJ7LAd1tk-3" value="+ manualAuthorize() : Memory Authorization&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fontSize=10;" parent="SZxRtCJqyWKQ7ooCCnyD-81" vertex="1">
           <mxGeometry y="190" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ypWqNczS8cIZV4URQqpb-0" value="+ accesDenied(): void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fontSize=10;" vertex="1" parent="SZxRtCJqyWKQ7ooCCnyD-81">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYMQDGKd3a_AJ7LAd1tk-7" value="" style="endArrow=none;html=1;fontSize=10;entryX=0.445;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zYMQDGKd3a_AJ7LAd1tk-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
