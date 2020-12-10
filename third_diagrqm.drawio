@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T19:12:09.377Z" agent="5.0 (Windows)" etag="ipiNnZ0Eukz27v-HMeT9" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T19:13:26.611Z" agent="5.0 (Windows)" etag="0O3ZqTmr7qTKdyTN6xen" version="13.10.9" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="868" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="a6HV5OsHGUTdc41z4olO-70" value="Turn on the gun" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="a6HV5OsHGUTdc41z4olO-10" vertex="1">
           <mxGeometry x="95" y="390" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a6HV5OsHGUTdc41z4olO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="a6HV5OsHGUTdc41z4olO-10" source="a6HV5OsHGUTdc41z4olO-69" edge="1" target="a6HV5OsHGUTdc41z4olO-72">
+        <mxCell id="a6HV5OsHGUTdc41z4olO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="a6HV5OsHGUTdc41z4olO-10" source="a6HV5OsHGUTdc41z4olO-69" target="a6HV5OsHGUTdc41z4olO-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="550" as="targetPoint" />
           </mxGeometry>
@@ -158,10 +158,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6HV5OsHGUTdc41z4olO-85" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Gun assembling&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-1040" width="150" height="20" as="geometry" />
+        <mxCell id="a6HV5OsHGUTdc41z4olO-85" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Installation&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1040" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="i4ZXG_g-jhPeFtlazNPo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="a6HV5OsHGUTdc41z4olO-59" target="a6HV5OsHGUTdc41z4olO-69">
+        <mxCell id="i4ZXG_g-jhPeFtlazNPo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="a6HV5OsHGUTdc41z4olO-59" target="a6HV5OsHGUTdc41z4olO-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
