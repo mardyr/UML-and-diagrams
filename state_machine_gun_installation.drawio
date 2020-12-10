@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T19:05:21.242Z" agent="5.0 (Windows)" etag="hWgIwt6fkncJwJw7pHp4" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T19:10:03.450Z" agent="5.0 (Windows)" etag="-Az4KytwjspnOV6pybbc" version="13.10.9" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="942" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="117.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2a3bc250acf0617d-8" value="Gun installation" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;width=120;height=50;" parent="1" vertex="1">
-          <mxGeometry x="10" y="16.25" width="840" height="923.75" as="geometry" />
+          <mxGeometry x="5" y="16.25" width="840" height="923.75" as="geometry" />
         </mxCell>
         <mxCell id="aduVR0IKgrhrelH6BX9p-2" value="Gun assembling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="165" width="110" height="20" as="geometry" />
